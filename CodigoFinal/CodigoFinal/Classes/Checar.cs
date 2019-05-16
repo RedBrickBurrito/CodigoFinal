@@ -29,7 +29,6 @@ namespace CodigoFinal.Classes
         public class MinimoLetrasException : Exception
         {
             public MinimoLetrasException()
-               : base()
             {
             }
         }
